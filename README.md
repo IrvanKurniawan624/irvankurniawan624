@@ -18,10 +18,9 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=irvankurniawan624&theme=aura&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irvankurniawan624&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=irvankurniawan624&theme=onedark&no-frame=true&margin-w=15&row=1&title=Experience,Commit,Repositories" />
-  </div>
+  <img src="https://github-profile-trophy.vercel.app/?username=irvankurniawan624&theme=onedark&no-frame=true&margin-w=15&row=1&title=Experience,Commit,Repositories" />
 </div>
+
 
 ### ⚡ LVLVLV
 ![Arch](https://img.shields.io/badge/ArchLinux-00ADEF?logo=arch-linux&logoColor=white&style=for-the-badge)
