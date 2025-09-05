@@ -42,7 +42,9 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)
 
 ---
-![Sora GIF](.github/sora.gif)
+<div align="center">
+  <img src=".github/sora.gif" width="300" alt="Sora GIF">
+</div>
 
 ![snake gif](https://github.com/irvankurniawan624/irvankurniawan624/blob/output/github-snake-dark.svg)
 
