@@ -40,7 +40,7 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)
 
 ---
-<div class="tenor-gif-embed" data-postid="5398913613780908156" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/sora-%E3%81%A8%E3%81%8D%E3%81%AE%E3%81%9D%E3%82%89-%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96-tokino-sora-hololive-gif-5398913613780908156"></script>
+<img src="https://media.tenor.com/bbcjzQeMSwYAAAAC/sora-%E3%81%A8%E3%81%8D%E3%81%AE%E3%81%9D%E3%82%89-hololive.gif" width="300" alt="Sora GIF">
 
 ---
 ![snake gif](https://github.com/irvankurniawan624/irvankurniawan624/blob/output/github-snake-dark.svg)
