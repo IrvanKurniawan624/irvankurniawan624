@@ -14,9 +14,11 @@
 
 ---
 
-### 🎮 XP BUILD
+### 🍁 LEX
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=irvankurniawan624&theme=aura&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irvankurniawan624&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <img src="https://github-profile-trophy.vercel.app/?username=irvankurniawan624&theme=onedark&no-frame=true&margin-w=15&row=1" />
 </div>
 
 ### ⚡ LVLVLV
@@ -40,8 +42,7 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)
 
 ---
-<img src="https://media.tenor.com/bbcjzQeMSwYAAAAC/sora-%E3%81%A8%E3%81%8D%E3%81%AE%E3%81%9D%E3%82%89-hololive.gif" width="300" alt="Sora GIF">
+![Sora GIF](.github/sora.gif)
 
----
 ![snake gif](https://github.com/irvankurniawan624/irvankurniawan624/blob/output/github-snake-dark.svg)
 
